@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="connector_services:Pubsub_DeleteTopic_oauth_conn" connectorServiceName="connector_services:Pubsub_DeleteTopic_oauth_conn"/>
+            <keyDetails collectionKey="connector_services:Pubsub_ListTopics_oauth_conn" connectorServiceName="connector_services:Pubsub_ListTopics_oauth_conn"/>
+            <keyDetails collectionKey="connector_services:Pubsub_createTopic_oauth_conn" connectorServiceName="connector_services:Pubsub_createTopic_oauth_conn"/>
+            <keyDetails collectionKey="connector_services:Pubsub_getTopic_oauth_conn" connectorServiceName="connector_services:Pubsub_getTopic_oauth_conn"/>
+            <keyDetails collectionKey="connector_services:Test" connectorServiceName="connector_services:Test"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
